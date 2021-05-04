@@ -1,1 +1,3 @@
-console.log('Working');
+import './module';
+
+console.log('Working!');
