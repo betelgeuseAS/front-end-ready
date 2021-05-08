@@ -1,4 +1,3 @@
-import './module';
-import './sass/index.sass';
+import './sass/index.sass'
 
-console.log('Working!');
+console.log('Working!')
