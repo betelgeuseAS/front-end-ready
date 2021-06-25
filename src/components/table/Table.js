@@ -62,7 +62,7 @@ export class Table extends ExcelComponent {
 
         this.selection.selectGroup($cells)
       } else {
-        this.selection.select($target)
+        this.selectCell($target)
       }
     }
   }
