@@ -13,5 +13,8 @@
     "require-jsdoc": "off",
     "operator-linebreak": "off"
   },
-  "extends": ["eslint:recommended", "google"]
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ]
 }
