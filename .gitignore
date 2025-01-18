@@ -2,10 +2,3 @@
 .idea
 .vscode
 .history
-
-# Node
-node_modules/
-package-lock.json
-
-# Production directory
-dist
