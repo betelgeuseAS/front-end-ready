@@ -1,0 +1,11 @@
+p {
+  font-family: monospace;
+  font-size: 5em;
+}
+
+.striped {
+  text-shadow: -4px -4px 0 #D2EAD7;
+  background: repeating-linear-gradient(45deg, #6EB495, #6EB495 1px, white 2px, white 3px);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
