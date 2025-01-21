@@ -16,4 +16,4 @@ In the `src/libraries` folder, you'll find many different third-party libraries 
 
 ### Show Your Support
 
-If you find these projects helpful or interesting, please consider starring the repository. It's a simple gesture that helps to boost the visibility of the project and show appreciation for the effort put into creating it. Additionally, if you'd like to support my work further, you can [become a sponsor](). Your support is greatly appreciated. Thank you!
+If you find these projects helpful or interesting, please consider starring the repository. It's a simple gesture that helps to boost the visibility of the project and show appreciation for the effort put into creating it. Additionally, if you'd like to support my work further, you can [become a sponsor](buymeacoffee.com/betelgeuseo). Your support is greatly appreciated. Thank you!
