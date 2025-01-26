@@ -1,0 +1,10 @@
+.content {
+  padding: 8px;
+  margin: 16px auto;
+  max-width: 50%;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+
+  /* Split the text into three columns: */
+  columns: 3 auto;
+}
